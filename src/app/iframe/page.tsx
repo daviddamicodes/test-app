@@ -1,3 +1,5 @@
+"use client";
+
 import React from "react";
 import { IoLogoAndroid } from "react-icons/io";
 
@@ -6,7 +8,7 @@ const IframeTest = () => {
 
   // );
   const url =
-    "https://pr-3verse-virtual-card-staging.fly.dev/?app_hash=0a4e0c259aa285ee6614fdfdb929ea5adf3fdee036f207fe3205b9efa297342e&email=Craig9@hotmail.com&business=84b538d50828";
+    "https://staging-virtual-card-app-wlagd.ondigitalocean.app/?app_hash=6377a1fe7572d9cda203ff46b2c5e98380858dc7b0358e79992df812ca6a6026&email=Clay82@hotmail.com&business=84b538d50828";
 
   // useEffect(() => {
   //   if (typeof window !== "undefined") {
